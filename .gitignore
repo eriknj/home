@@ -1,0 +1,10 @@
+.viminfo
+.git
+.bash_history
+vimfiles/
+go/
+.vim
+.aptitude/
+.gradle/
+.lesshst
+.ssh
