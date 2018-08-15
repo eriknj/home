@@ -119,5 +119,4 @@ if [ -d "$HOME/bin" ] ; then
 fi
 
 export GOPATH=/home/ejohnson/go
-
-export DISPLAY=
+export DISPLAY=:1
