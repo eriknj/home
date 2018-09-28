@@ -21,7 +21,7 @@ set scs
 let Tlist_Ctags_Cmd = "/usr/bin/ctags"
 nnoremap <leader>tl :TlistToggle<cr>
 
-set runtimepath^=~/vimfiles/bundle/ctrlp.vim
+set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 colorscheme desert
 
@@ -101,7 +101,7 @@ let g:TogoExplicitCommentsEnabled=1
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/vimfiles/bundle/Vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
