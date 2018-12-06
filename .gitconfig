@@ -1,3 +1,5 @@
 [user]
 	email = erijohnson@deloitte.com
 	name = Erik Johnson
+[core]
+	editor = vim
